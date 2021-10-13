@@ -109,9 +109,6 @@
         <loc>https://webpack.kr/api/parser</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/passing-a-config</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins</loc>
     </url>
     <url>
@@ -119,6 +116,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/stats</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/passing-a-config</loc>
     </url>
     <url>
         <loc>https://webpack.kr/blog/2020-10-10-webpack-5-release</loc>
@@ -133,6 +133,9 @@
         <loc>https://webpack.kr/concepts/entry-points</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
     </url>
     <url>
@@ -140,9 +143,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/manifest</loc>
@@ -202,10 +202,10 @@
         <loc>https://webpack.kr/configuration/module</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/node</loc>
+        <loc>https://webpack.kr/configuration/mode</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/optimization</loc>
+        <loc>https://webpack.kr/configuration/node</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/other-options</loc>
@@ -235,7 +235,7 @@
         <loc>https://webpack.kr/contribute/debugging</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/mode</loc>
+        <loc>https://webpack.kr/configuration/optimization</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/plugin-patterns</loc>
@@ -553,10 +553,10 @@
         <loc>https://webpack.kr/plugins/prefetch-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/profiling-plugin</loc>
+        <loc>https://webpack.kr/plugins/progress-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/progress-plugin</loc>
+        <loc>https://webpack.kr/plugins/profiling-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/provide-plugin</loc>
@@ -586,21 +586,21 @@
         <loc>https://webpack.kr/api/plugins/compilation</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/api/plugins/compiler</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/plugins/module-factories</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/api/plugins/parser</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/resolver</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/compiler</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins/tapable</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/template</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/api/plugins/module-factories</loc>
     </url>
 </urlset>
