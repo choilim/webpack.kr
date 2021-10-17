@@ -19,9 +19,6 @@
         <loc>https://webpack.kr/branding</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/comparison</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/concepts</loc>
     </url>
     <url>
@@ -38,6 +35,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/glossary</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/comparison</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides</loc>
@@ -64,10 +64,10 @@
         <loc>https://webpack.kr/support</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/writers-guide</loc>
+        <loc>https://webpack.kr/vote</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/vote</loc>
+        <loc>https://webpack.kr/writers-guide</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/cli</loc>
@@ -130,6 +130,9 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
@@ -137,9 +140,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -166,10 +166,10 @@
         <loc>https://webpack.kr/concepts/plugins</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/targets</loc>
+        <loc>https://webpack.kr/concepts/under-the-hood</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/under-the-hood</loc>
+        <loc>https://webpack.kr/concepts/targets</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/why-webpack</loc>
@@ -181,10 +181,10 @@
         <loc>https://webpack.kr/configuration/configuration-languages</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/configuration-types</loc>
+        <loc>https://webpack.kr/configuration/dev-server</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/dev-server</loc>
+        <loc>https://webpack.kr/configuration/configuration-types</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/devtool</loc>
@@ -197,6 +197,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/configuration/externals</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/configuration/mode</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/module</loc>
@@ -233,9 +236,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/contribute/debugging</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/configuration/mode</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/plugin-patterns</loc>
