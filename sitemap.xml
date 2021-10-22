@@ -130,16 +130,16 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
+        <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/entry-points</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/dependency-graph</loc>
+        <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
+        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -151,10 +151,10 @@
         <loc>https://webpack.kr/concepts/mode</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/module-resolution</loc>
+        <loc>https://webpack.kr/concepts/module-federation</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/module-federation</loc>
+        <loc>https://webpack.kr/concepts/module-resolution</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/modules</loc>
@@ -229,13 +229,13 @@
         <loc>https://webpack.kr/configuration/stats</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/configuration/target</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/configuration/watch</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/debugging</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/configuration/target</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/plugin-patterns</loc>
@@ -301,10 +301,10 @@
         <loc>https://webpack.kr/guides/code-splitting-import</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/code-splitting-libraries</loc>
+        <loc>https://webpack.kr/guides/code-splitting-require</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/code-splitting-require</loc>
+        <loc>https://webpack.kr/guides/code-splitting-libraries</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/csp</loc>
@@ -589,9 +589,6 @@
         <loc>https://webpack.kr/api/plugins/compiler</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/module-factories</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins/parser</loc>
     </url>
     <url>
@@ -599,6 +596,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/tapable</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/plugins/module-factories</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/template</loc>
