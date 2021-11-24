@@ -19,9 +19,6 @@
         <loc>https://webpack.kr/branding</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/comparison</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/concepts</loc>
     </url>
     <url>
@@ -38,6 +35,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/glossary</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/comparison</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides</loc>
@@ -130,6 +130,9 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/concepts/dependency-graph</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/concepts/entry-points</loc>
     </url>
     <url>
@@ -137,9 +140,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/configuration</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -184,10 +184,10 @@
         <loc>https://webpack.kr/configuration/configuration-types</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/devtool</loc>
+        <loc>https://webpack.kr/configuration/dev-server</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/dev-server</loc>
+        <loc>https://webpack.kr/configuration/devtool</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/entry-context</loc>
@@ -415,10 +415,10 @@
         <loc>https://webpack.kr/loaders/node-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/postcss-loader</loc>
+        <loc>https://webpack.kr/loaders/null-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/null-loader</loc>
+        <loc>https://webpack.kr/loaders/postcss-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/raw-loader</loc>
@@ -490,9 +490,6 @@
         <loc>https://webpack.kr/plugins/define-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/dll-plugin</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/plugins/environment-plugin</loc>
     </url>
     <url>
@@ -506,6 +503,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/hot-module-replacement-plugin</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/plugins/dll-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/html-minimizer-webpack-plugin</loc>
@@ -583,9 +583,6 @@
         <loc>https://webpack.kr/pluginsapi/template</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/compilation</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins/compiler</loc>
     </url>
     <url>
@@ -599,6 +596,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/tapable</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/plugins/compilation</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/template</loc>
